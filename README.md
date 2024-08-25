@@ -32,6 +32,3 @@ BMICalculator is a simple and intuitive mobile app designed to help users calcul
 | Underweight | Normal | Overweight | Obese |
 |--------------|---------------|------------|-------|
 | <img src="Screenshots/1st Underweight.png" alt="Underweight" width="250"/> | <img src="Screenshots/2nd Normal weight.png" alt="Normal" width="250"/> | <img src="Screenshots/3rd Overweight.png" alt="Overweight" width="250"/> | <img src="Screenshots/4th Obese.png" alt="Obese" width="250"/> |
-
-### Share Option
-<img src="Screenshots/Share option.png" alt="Share Option" width="400"/>
