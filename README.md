@@ -21,3 +21,21 @@ BMICalculator is a simple and intuitive mobile app designed to help users calcul
    - Input your weight (in kilograms).
 2. **Calculate:** Press the "Calculate BMI" button.
 3. **View Results:** The app will display your BMI, categorize it as Underweight, Normal, Overweight, or Obese, and provide a recommendation for your health.
+
+## Screenshots
+
+### Home Page
+<img src="Screenshots/Homepage.png" alt="Home Page" width="300"/>
+
+### Score Page 
+
+| Underweight | Normal Weight |
+|--------------|---------------|
+| <img src="Screenshots/1st Underweight.png" alt="Underweight" width="250"/> | <img src="Screenshots/2nd Normal weight.png" alt="Normal Weight" width="250"/> |
+
+| Overweight | Obese |
+|------------|-------|
+| <img src="Screenshots/3rd Overweight.png" alt="Overweight" width="250"/> | <img src="Screenshots/4th Obese.png" alt="Obese" width="250"/> |
+
+### Share Option
+<img src="Screenshots/Share option.png" alt="Share Option" width="400"/>
