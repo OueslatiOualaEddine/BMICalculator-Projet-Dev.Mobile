@@ -1,14 +1,23 @@
-# bmi_calculator
+# BMICalculator
 
-BMI Calculator Application using Flutter.
+## Project overview
 
-## Getting Started
+BMICalculator is a simple and intuitive mobile app designed to help users calculate their Body Mass Index (BMI) based on their height, weight, gender, and age. The app provides personalized feedback on the user's BMI status and offers recommendations for maintaining or improving their health.
 
-This project covers BMI Calculator application implentation. It also covers how to create app ui easily using various packages.
+## Features
 
-**Note:** _Gender & Age is not part of BMI calculation. Here it is kept on UI just for information purpose which can be used in further functionalities like sharing  and if anyone want to save/record the BMI data for future purpose._
+- **BMI Calculation:** Easily calculate your BMI using weight and height.
+- **Gender and Age Consideration:** Inputs for gender and age for a more personalized experience.
+- **BMI Categories:**:  Underweight, Normal, Overweight and Obese
+- **Health Recommendations:** Receive advice based on your BMI status.
+- **User-Friendly Interface:** Simple and clean UI for easy navigation.
 
-Watch below [Youtube](https://www.youtube.com/watch?v=J1CDaJ_d8Us) video for the code walkthrough,
+## Usage
 
-[![BMI Calculator using Flutter](https://img.youtube.com/vi/J1CDaJ_d8Us/0.jpg)](https://www.youtube.com/watch?v=J1CDaJ_d8Us)
-
+1. **Enter Your Details:** 
+   - Select your gender.
+   - Enter your age.
+   - Input your height (in meters).
+   - Input your weight (in kilograms).
+2. **Calculate:** Press the "Calculate BMI" button.
+3. **View Results:** The app will display your BMI, categorize it as Underweight, Normal, Overweight, or Obese, and provide a recommendation for your health.
